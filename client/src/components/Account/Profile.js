@@ -39,6 +39,8 @@ const Profile = () => {
     // eslint-disable-line no-alert
   }, []);
 
+  useEffect(() => {});
+
   // console.log(users)
 
   // Styling!

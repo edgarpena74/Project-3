@@ -68,7 +68,7 @@ Gif:
 
     Brandon Tabaska   btabaska@gmail.com
 
-    Edgar Pena   Email: 
+    Edgar Pena   Email: edgarpena0740@gmail.com
 
     Lea Wilhelmer   Email: leawilhelmer@gmail.com
     
